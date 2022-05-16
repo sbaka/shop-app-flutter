@@ -13,6 +13,6 @@ to fully grasp provider functioning and state management
 
 ## screenshots of the App
 
-
-
-
+![qemu-system-i386_Q8T7OjwNE0](https://user-images.githubusercontent.com/62220111/168691658-1a221920-10c9-415e-a58c-65d2cd0630e5.png)
+![qemu-system-i386_5URIvJpjDP](https://user-images.githubusercontent.com/62220111/168691663-66ffe684-a3a8-4256-9382-9e06b654edd9.png)
+![qemu-system-i386_o7OKiTcm4U](https://user-images.githubusercontent.com/62220111/168691678-a9f70b68-6f59-4795-af2b-4cd07fc155c6.png)
